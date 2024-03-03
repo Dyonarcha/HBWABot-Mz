@@ -30,7 +30,7 @@ global.sessionName = 'session'
 
 // Sticker Pack Name
 global.packname = "Sticker By"꧁Kazuki꧂
-global.author = "꧁Kazuki꧂"
+global.author = "Hbwabot"
 global.hbmods = "https://herbert70.blogspot.com/"
 //_______________________________________________
 global.defaultpp = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60'
