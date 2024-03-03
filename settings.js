@@ -29,7 +29,7 @@ global.prefa = ['','!','.','#','/']
 global.sessionName = 'session'
 
 // Sticker Pack Name
-global.packname = "Sticker By"꧁Kazuki꧂
+global.packname = "Sticker By ꧁Kazuki꧂"
 global.author = "Hbwabot"
 global.hbmods = "https://herbert70.blogspot.com/"
 //_______________________________________________
