@@ -17,9 +17,9 @@ global.bot_language = 'lus' // I language code dah tur code hman i hriat loh chu
 //info
 global.owner = ['918787397542'] // I phone number in thlak rawh
 global.ownernumber = '918787397542' // I phone number in thlak rawh
-global.ownername = "꧁✨Light✨꧂" // I hming dah tel bawk la
+global.ownername = "꧁STARLORD BOSS꧂" // I hming dah tel bawk la
 global.location = "India, Mizoram, Aizawl" // I awmna hmun daha
-global.botname = "✨Light✨" // I bot hming tur dah la
+global.botname = "STARLORD BOSS" // I bot hming tur dah la
 global.ownerweb = "https://youtube.com/@HBMods_Channel"
 global.themeemoji = '🤖'
 global.creator = "918787397542@s.whatsapp.net" // @ symbol hmaa number hi i phone number in thlak rawh
@@ -29,7 +29,7 @@ global.prefa = ['','!','.','#','/']
 global.sessionName = 'session'
 
 // Sticker Pack Name
-global.packname = "Sticker By ꧁✨Light✨꧂"
+global.packname = "Sticker By ꧁STARLORD BOSS꧂"
 global.author = "Hbwabot"
 global.hbmods = "https://herbert70.blogspot.com/"
 //_______________________________________________
